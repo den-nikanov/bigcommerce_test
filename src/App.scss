@@ -1,0 +1,19 @@
+@import './assets/fonts/fontello/css/fontello.css';
+
+.container {
+  max-width: 1126px;
+  padding: 0 23px;
+}
+
+.row {
+  margin-right: -23px;
+  margin-left: -23px;
+}
+
+[class*="col-md-"] {
+  padding: 0 23px;
+}
+
+h1 {
+  font-family: serif;
+}
